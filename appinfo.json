@@ -1,0 +1,33 @@
+{
+    "appKeys": {
+        "KEY_POLL_BLUE_BLOCK": 1,
+        "KEY_POLL_RED_BLOCK": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TMA Research",
+    "longName": "FV2015 Watch",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/FV2015Watch.png",
+                "menuIcon": true,
+                "name": "IMG_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "FV2015Watch",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "0637a03d-f992-4ed0-8fa4-543327698ad6",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
